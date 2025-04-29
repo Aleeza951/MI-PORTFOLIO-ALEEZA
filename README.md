@@ -9,10 +9,10 @@
 - [Introducción](#introducción)
 - [Tecnologías Usadas](#tecnologías-usadas)
 - [Cómo Ejecutar el Proyecto](#cómo-ejecutar-el-proyecto)
-- [About](#Acerca de)
+- [About](#Acercade)
 - [Services](#servicios)
-- [Portfolio](#portfolio)
-- [Contacto](#contact0)
+- [Portfolio](#Portfolio)
+- [Contacto](#Contacto)
 
 
 ## Introducción
