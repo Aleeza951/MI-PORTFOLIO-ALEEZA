@@ -9,11 +9,10 @@
 - [Introducción](#introducción)
 - [Tecnologías Usadas](#tecnologías-usadas)
 - [Cómo Ejecutar el Proyecto](#cómo-ejecutar-el-proyecto)
-- [Home](#index)
-- [About](#about)
-- [Services](#services)
+- [About](#Acerca de)
+- [Services](#servicios)
 - [Portfolio](#portfolio)
-- [Contact](#contact)
+- [Contacto](#contact0)
 
 
 ## Introducción
@@ -83,7 +82,25 @@ En esta sección he añadido algunos de mis proyectos que he creado durante mi f
 
 ![Contact](contact.png)
 
-![Contact2](contact 2.png)
+![Contact](contact2.png)
 
 En esta sección he añadido un formulario donde los usuarios pueden enviarme un mensaje directamente. El formulario incluye campos para el nombre, correo electrónico, asunto y mensaje.
+
+### Funcionalidades
+
+### Botones
+
+He añadido dos botones interactivos en mi portfolio:
+
+#### Descargar CV
+
+![Boton1](boton1.png)
+
+Al hacer clic, se descarga automáticamente mi currículum en formato PDF.
+
+#### Hire Me
+
+![Boton2](boton2.png)
+
+Al hacer clic, el usuario es redirigido directamente a la página de contacto para enviarme un mensaje.
 
