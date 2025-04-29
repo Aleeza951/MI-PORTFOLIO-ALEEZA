@@ -9,7 +9,7 @@
 - [Introducción](#introducción)
 - [Tecnologías Usadas](#tecnologías-usadas)
 - [Cómo Ejecutar el Proyecto](#cómo-ejecutar-el-proyecto)
-- [HOme](#home)
+- [Home](#index)
 - [About](#about)
 - [Services](#services)
 - [Portfolio](#portfolio)
@@ -38,14 +38,15 @@ Este es el portfolio de **Aleeza**, una desarrolladora web apasionada. He comple
 
 ### Mi Introducción
 
-Hola, soy Queen Aleeza, una desarrolladora web apasionada por crear experiencias web atractivas y funcionales. He completado mi curso de desarrollo web y tengo un gran interés en mejorar mis habilidades constantemente.
-### Mis Habilidades
-Habilidad | Porcentaje
-HTML | 90%
-CSS | 80%
-JavaScript | 75%
-Python | 70%
+Hola, soy Aleeza, una desarrolladora web apasionada por crear experiencias web atractivas y funcionales. He completado mi curso de desarrollo web y tengo un gran interés en mejorar mis habilidades constantemente.
 
+En esta sección muestro:
+
+    Mis habilidades: un resumen con porcentajes sobre lo que sé (HTML, CSS, JavaScript, Python).
+
+    Mi educación: detalles sobre el curso de desarrollo web que he completado.
+
+    Mi experiencia: actualmente no tengo experiencia profesional, pero estoy en proceso de aprender y crecer como desarrolladora.
 ## Educación
 
 He completado mi curso de Desarrollo Web Full Stack en [Penascal koop.].
@@ -77,3 +78,12 @@ He añadido las siguientes servicios que puedo ofrecer:
 ![Portfolio](portfolio.png)
 
 En esta sección he añadido algunos de mis proyectos que he creado durante mi formación como desarrolladora web. Aquí puedes ver ejemplos reales de mi trabajo, diseño y desarrollo web.
+
+## Contacto
+
+![Contact](contact.png)
+
+![Contact2](contact 2.png)
+
+En esta sección he añadido un formulario donde los usuarios pueden enviarme un mensaje directamente. El formulario incluye campos para el nombre, correo electrónico, asunto y mensaje.
+
