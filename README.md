@@ -9,7 +9,7 @@
 - [Introducción](#introducción)
 - [Tecnologías Usadas](#tecnologías-usadas)
 - [Cómo Ejecutar el Proyecto](#cómo-ejecutar-el-proyecto)
-- [About](#Acercade)
+- [Acerca de](#Acerca de)
 - [Services](#servicios)
 - [Portfolio](#Portfolio)
 - [Contacto](#Contacto)
@@ -103,4 +103,27 @@ Al hacer clic, se descarga automáticamente mi currículum en formato PDF.
 ![Boton2](boton2.png)
 
 Al hacer clic, el usuario es redirigido directamente a la página de contacto para enviarme un mensaje.
+
+
+## Cambiar Tema de Color
+
+He añadido una funcionalidad llamada colorTheme que permite cambiar el fondo del sitio web:
+
+![darklight](darklight.png)
+
+#### Cuando el usuario hace clic en el botón, el fondo cambia de blanco a oscuro, o de oscuro a blanco, según el estado actual.
+
+![themecolor](themecolor.png)
+
+#### Esto mejora la experiencia del usuario permitiéndole elegir entre un tema claro u oscuro.
+
+### Menú Hamburguesa
+
+![Hamburguesa](hamburguesa.png)
+
+He añadido un menú hamburguesa para dispositivos móviles:
+
+    Al hacer clic en el ícono de hamburguesa, se abre o cierra el menú de navegación lateral.
+
+    Esta función mejora la usabilidad en pantallas pequeñas y móviles.
 
