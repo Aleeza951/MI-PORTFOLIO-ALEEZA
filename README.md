@@ -70,13 +70,6 @@ En esta sección muestro:
     Mi educación: detalles sobre el curso de desarrollo web que he completado.
 
     Mi experiencia: actualmente no tengo experiencia profesional, pero estoy en proceso de aprender y crecer como desarrolladora.
-## Educación
-
-He completado mi curso de Desarrollo Web Full Stack en [Penascal koop.].
-
-## Eperencia
-
-no tengo experencia.
 
 ## Servicios
 
@@ -106,7 +99,7 @@ En esta sección he añadido algunos de mis proyectos que he creado durante mi f
 
 En esta sección he añadido un formulario donde los usuarios pueden enviarme un mensaje directamente. El formulario incluye campos para el nombre, correo electrónico, asunto y mensaje.
 
-### Funcionalidades
+## Funcionalidades
 
 ### Botones
 
