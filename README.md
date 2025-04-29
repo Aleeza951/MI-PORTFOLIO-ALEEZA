@@ -9,10 +9,10 @@
 - [Introducción](#introducción)
 - [Tecnologías Usadas](#tecnologías-usadas)
 - [Cómo Ejecutar el Proyecto](#cómo-ejecutar-el-proyecto)
-- [Acerca de](#Acerca de)
-- [Services](#servicios)
-- [Portfolio](#Portfolio)
-- [Contacto](#Contacto)
+- [Acerca de](#acerca-de)
+- [Servicios](#servicios)
+- [Portafolio](#portafolio)
+- [Contacto](#contacto)
 
 
 ## Introducción
@@ -58,19 +58,15 @@ no tengo experencia.
 
 ![Services](service.png)
 
-He añadido las siguientes servicios que puedo ofrecer:
+He añadido los siguientes servicios que ofrezco:
 
-    Desarrollo Web 
+- Desarrollo Web  
+- Desarrollo Frontend  
+- Desarrollo Backend  
+- Web Responsivas  
+- Figma  
+- Deploy
 
-    Desarrollo Frontend
-
-    Desarrollo Backend
-
-    Web Responsivas
-
-    Figma
-
-    Deploy
 
 ## Portafolio
 
@@ -111,11 +107,15 @@ He añadido una funcionalidad llamada colorTheme que permite cambiar el fondo de
 
 ![darklight](darklight.png)
 
-#### Cuando el usuario hace clic en el botón, el fondo cambia de blanco a oscuro, o de oscuro a blanco, según el estado actual.
+Cuando el usuario hace clic en el botón, el fondo cambia de blanco a oscuro, o de oscuro a blanco, según el estado actual.
 
 ![themecolor](themecolor.png)
 
-#### Esto mejora la experiencia del usuario permitiéndole elegir entre un tema claro u oscuro.
+He añadido una función llamada colorTheme que cambia solo el color de las palabras (como los encabezados) cuando el usuario hace clic en el botón:
+
+No cambia el fondo, solo el color del texto (por ejemplo, los títulos y encabezados).
+
+Permite al usuario personalizar la apariencia visual del texto según su preferencia.
 
 ### Menú Hamburguesa
 
@@ -123,7 +123,11 @@ He añadido una funcionalidad llamada colorTheme que permite cambiar el fondo de
 
 He añadido un menú hamburguesa para dispositivos móviles:
 
-    Al hacer clic en el ícono de hamburguesa, se abre o cierra el menú de navegación lateral.
+Al hacer clic en el ícono de hamburguesa, se abre o cierra el menú de navegación lateral.
 
-    Esta función mejora la usabilidad en pantallas pequeñas y móviles.
+Esta función mejora la usabilidad en pantallas pequeñas y móviles.
 
+
+## Gracias por visitar mi portfolio
+
+Si te gusta mi trabajo o quieres contactarme, ¡no dudes en usar el formulario de contacto o descargar mi CV!
