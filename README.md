@@ -32,24 +32,29 @@ Este es el portfolio de **Aleeza**, una desarrolladora web apasionada. He comple
 - **CSS3**
 - **JavaScript**
 
-### Cómo Ejecutar el Proyecto
+## Cómo Ejecutar el Proyecto
 
 Este proyecto no requiere dependencias adicionales ni servidor. Solo necesitas un navegador web para verlo.
-Pasos para ejecutar el proyecto
 
-Clona el repositorio
+### Pasos para ejecutar el proyecto:
+
+1. **Clona el repositorio**:
+
+   ```bash
+   git clone https://github.com/Aleeza951/MI-PORTFOLIO-ALEEZA.git
+
 
 Abre tu terminal y ejecuta el siguiente comando para clonar el proyecto
 
-Accede a la carpeta del proyecto:
+##### Accede a la carpeta del proyecto:
 
 cd portfolio
 
-Abre el archivo index.html en tu navegador:
+##### Abre el archivo index.html en tu navegador:
 
-Doble clic en el archivo index.html o usa un editor de código con vista previa, como Visual Studio Code con la extensión "Live Server".
+    Doble clic en el archivo index.html.
 
-Esto abrirá el proyecto en tu navegador y podrás ver el portfolio en acción.
+    O usa un editor de código como Visual Studio Code con la extensión Live Server.
 
 ## Acerca de
 ![About](about.png)
@@ -149,4 +154,5 @@ Esta función mejora la usabilidad en pantallas pequeñas y móviles.
 
 ## Gracias por visitar mi portfolio
 
-Si te gusta mi trabajo o quieres contactarme, ¡no dudes en usar el formulario de contacto o descargar mi CV!
+Estoy emocionada por seguir creciendo como desarrolladora web.
+¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta! 🚀
