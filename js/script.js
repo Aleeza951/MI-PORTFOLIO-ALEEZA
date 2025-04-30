@@ -92,3 +92,46 @@ for(let i = 0; i<totalNavList; i++) {
             allSection[i].classList.toggle("open");
         }
     }
+
+// Animación de elementos al hacer scroll
+document.addEventListener('DOMContentLoaded', function() {
+    // Añadir clase 'fade-in' a elementos que queremos animar
+    const sections = document.querySelectorAll('.section-title, .service-item, .portfolio-item');
+    sections.forEach(section => {
+        section.classList.add('fade-in');
+    });
+    
+    // Función para verificar si elemento está en viewport
+    function checkVisible() {
+        const elements = document.querySelectorAll('.fade-in');
+        elements.forEach(element => {
+            const rect = element.getBoundingClientRect();
+            const windowHeight = window.innerHeight || document.documentElement.clientHeight;
+            if (rect.top <= windowHeight * 0.8) {
+                element.classList.add('visible');
+            }
+        });
+        
+        // Botón volver arriba
+        const backToTop = document.querySelector('.back-to-top');
+        if (window.pageYOffset > 300) {
+            backToTop.classList.add('visible');
+        } else {
+            backToTop.classList.remove('visible');
+        }
+    }
+    
+    // Verificar elementos al cargar y al hacer scroll
+    window.addEventListener('scroll', checkVisible);
+    window.addEventListener('load', checkVisible);
+    
+    // Funcionalidad botón volver arriba
+    const backToTop = document.querySelector('.back-to-top');
+    backToTop.addEventListener('click', function(e) {
+        e.preventDefault();
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    });
+});
