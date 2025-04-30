@@ -265,7 +265,7 @@ ul{
 .aside .nav li a.active{
     color: var(--skin-color);
 }
-.active .nav li a i{
+.aside .nav li a i{
     margin-right: 15px;
 }
 /*home*/
