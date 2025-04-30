@@ -2,7 +2,7 @@
 
 ¡Bienvenidos a mi portfolio! Este es un sitio web simple y elegante diseñado para mostrar mis habilidades como desarrolladora web. El diseño incluye una barra lateral de navegación, una página de inicio con mi foto e introducción, y secciones adicionales como Acerca de, Servicios, Portafolio y Contacto.
 
-![Home](home.png)
+![Home](img/home.png)
 
 ## Tabla de Contenidos
 
@@ -57,7 +57,7 @@ cd portfolio
     O usa un editor de código como Visual Studio Code con la extensión Live Server.
 
 ## Acerca de
-![About](about.png)
+![About](img/about.png)
 
 ### Mi Introducción
 
@@ -73,7 +73,7 @@ En esta sección muestro:
 
 ## Servicios
 
-![Services](service.png)
+![Services](img/service.png)
 
 He añadido los siguientes servicios que ofrezco:
 
@@ -87,15 +87,15 @@ He añadido los siguientes servicios que ofrezco:
 
 ## Portafolio
 
-![Portfolio](portfolio.png)
+![Portfolio](img/portfolio.png)
 
 En esta sección he añadido algunos de mis proyectos que he creado durante mi formación como desarrolladora web. Aquí puedes ver ejemplos reales de mi trabajo, diseño y desarrollo web.
 
 ## Contacto
 
-![Contact](contact.png)
+![Contact](img/contact.png)
 
-![Contact](contact2.png)
+![Contact](img/contact2.png)
 
 En esta sección he añadido un formulario donde los usuarios pueden enviarme un mensaje directamente. El formulario incluye campos para el nombre, correo electrónico, asunto y mensaje.
 
@@ -107,13 +107,13 @@ He añadido dos botones interactivos en mi portfolio:
 
 #### Descargar CV
 
-![Boton1](boton1.png)
+![Boton1](img/boton1.png)
 
 Al hacer clic, se descarga automáticamente mi currículum en formato PDF.
 
 #### Hire Me
 
-![Boton2](boton2.png)
+![Boton2](img/boton2.png)
 
 Al hacer clic, el usuario es redirigido directamente a la página de contacto para enviarme un mensaje.
 
@@ -122,11 +122,11 @@ Al hacer clic, el usuario es redirigido directamente a la página de contacto pa
 
 He añadido una funcionalidad llamada colorTheme que permite cambiar el fondo del sitio web:
 
-![darklight](darklight.png)
+![darklight](img/darklight.png)
 
 Cuando el usuario hace clic en el botón, el fondo cambia de blanco a oscuro, o de oscuro a blanco, según el estado actual.
 
-![themecolor](themecolor.png)
+![themecolor](img/themecolor.png)
 
 He añadido una función llamada colorTheme que cambia solo el color de las palabras (como los encabezados) cuando el usuario hace clic en el botón:
 
@@ -136,7 +136,7 @@ Permite al usuario personalizar la apariencia visual del texto según su prefere
 
 ### Menú Hamburguesa
 
-![Hamburguesa](hamburguesa.png)
+![Hamburguesa](img/hamburguesa.png)
 
 He añadido un menú hamburguesa para dispositivos móviles:
 
