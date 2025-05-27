@@ -808,7 +808,7 @@ h3.my-profession{
 }
 
 /* Responsive styles */
-@media (max-width: 768px) {
+@media (max-width: 640px) {
     .footer-content {
         flex-direction: column;
         text-align: center;
